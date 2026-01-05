@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Speed = 100" 
+=======
+"Speed = 10" 
+>>>>>>> 8bc86cb79359c327ea2f0502cc16a3a2a5f26bcd

@@ -3,4 +3,5 @@ int speed=20;
 string name="Yazan"
 
 --------------
-int damge=5;
+int x;
+int damge=30;
