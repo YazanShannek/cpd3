@@ -4,6 +4,4 @@ string name="Yazan"
 
 --------------
 int x;
-
-
 int damge=30;
