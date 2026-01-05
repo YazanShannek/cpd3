@@ -1,3 +1,6 @@
 int health=100;
 int speed=20;
 string name="Yazan"
+
+--------------
+int damge=30;
